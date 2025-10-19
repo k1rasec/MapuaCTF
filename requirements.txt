@@ -4,7 +4,8 @@
 #
 #    ./scripts/pip-compile.sh
 #
-psycopg2-binary==2.9.9
+psycopg2-binary>=2.9.10
+
 
 alembic==1.16.4
     # via
